@@ -20,6 +20,7 @@ rl.on("close", function(){
     console.log((a*b)%c)
     console.log(((a%c) * (b%c))%c)
 })
+
 // 백준 용
 
 // var fs = require('fs');

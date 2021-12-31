@@ -19,6 +19,7 @@ rl.on("close", function(){
     console.log(parseInt(a / b))
     console.log(a % b)
 })
+
 // 백준 용
 
 // var fs = require('fs');

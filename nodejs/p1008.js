@@ -13,6 +13,7 @@ rl.on("line", function(line){
 rl.on("close", function(){
     console.log(input[0] / input[1])
 })
+
 // 백준 용
 
 // var fs = require('fs');

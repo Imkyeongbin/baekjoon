@@ -21,7 +21,6 @@ rl.on("line", function(line){
     console.log(a*parseInt(b))
 })
 
-
 // 백준 용
 
 // var fs = require('fs');
