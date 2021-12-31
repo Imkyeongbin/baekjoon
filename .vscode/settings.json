@@ -1,0 +1,15 @@
+{
+    //기본 포멧팅 설정 
+    "editor.defaultFormatter": null,
+    "[javascript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    //자동포멧팅 
+    "editor.codeActionsOnSave": ["source.formatDocument"],
+    "editor.formatOnSave": true,
+    "prettier.semi": false,
+    "prettier.tabWidth": 4,
+    "prettier.trailingComma": "es5",
+    "prettier.singleQuote": false,
+
+  }
